@@ -11,7 +11,7 @@ This repository contains the firmware and host-side software for a three-wheel o
 * **Video Demonstration**:
 
 <p align="center">
-  <a href="GOOGLE_DRIVE_VIDEO_URL">
+  <a href="https://drive.google.com/file/d/1x0PjBZc6bjffVuFklKv_nZ_6QdoX8BTY/view?usp=sharing">
     <img src="https://img.shields.io/badge/Google_Drive-Xem_Video_Demo_Th%E1%BB%B1c_T%E1%BA%BF-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Video Demo">
   </a>
 </p>
